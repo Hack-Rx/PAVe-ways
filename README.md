@@ -10,3 +10,14 @@ the users, appropriate food, and relevant exercises. Along with this, we have a 
 ## Process Flow
 
 ![block diagram1](https://user-images.githubusercontent.com/57681462/84495028-20167200-acc8-11ea-91ca-4f9a76cfdf4e.png)
+
+### DL-1
+DL-1 takes physical attributes such as Age, Gender, Height and Weight as the training features and gives user's health state as the output.
+In this model, the output is coded as: 
+0: Underweight,
+1: Healthy,
+2: Overweight,
+3: Obese. 
+
+Dataset source: https://www.kaggle.com/freego1/bmi-data
+
