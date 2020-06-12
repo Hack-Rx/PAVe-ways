@@ -21,3 +21,9 @@ In this model, the output is coded as:
 
 Dataset source: https://www.kaggle.com/freego1/bmi-data
 
+#### DL-2 : Calorie_Model
+
+DL-2 consists of two models, namely, food calorie model and activity calorie model. First model predicts the calorie intake value on consumption of given food, while the latter predicts calories burnt amount based on physical activity done (like walking, running, etc.).However, model was trained for limited data for prototype ,data can be expanded afterwards. Subtracting calorie intake and burnt data will give calorie consumed value.
+
+Dataset_activity source: https://www.health.harvard.edu/diet-and-weight-loss/calories-burned-in-30-minutes-of-leisure-and-routine-activities
+Dataset_food source: Kaggle, https://www.calories.info/food/
