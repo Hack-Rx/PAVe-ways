@@ -1,0 +1,79 @@
+Activity,Activity code,height(cms),Weight(kgs),calories burnt
+Weight Lifting: general,101,160,56.699,90
+Weight Lifting: general,101,160,70.3068,112
+Weight Lifting: general,101,160,83.9146,133
+"Stretching, Hatha Yoga",102,155,56.699,120
+"Stretching, Hatha Yoga",102,155,70.3068,149
+"Stretching, Hatha Yoga",102,155,83.9146,178
+Calisthenics: moderate,103,180,56.699,135
+Calisthenics: moderate,103,180,70.3068,167
+Calisthenics: moderate,103,180,83.9146,200
+Riders: general,104,172,56.699,150
+Riders: general,104,172,70.3068,186
+Riders: general,104,172,83.9146,222
+Aerobics: low impact,105,165,56.699,165
+Aerobics: low impact,105,165,70.3068,205
+Aerobics: low impact,105,165,83.9146,244
+"Bicycling, Stationary: moderate",106,146,56.699,210
+"Bicycling, Stationary: moderate",106,146,70.3068,260
+"Bicycling, Stationary: moderate",106,146,83.9146,311
+"Dancing: slow, waltz, foxtrot",107,148,56.699,90
+"Dancing: slow, waltz, foxtrot",107,148,70.3068,112
+"Dancing: slow, waltz, foxtrot",107,148,83.9146,133
+Tai Chi,108,178,56.699,120
+Tai Chi,108,178,70.3068,149
+Tai Chi,108,178,83.9146,178
+Walking: 3.5 mph (17 min/mi),109,166,56.699,120
+Walking: 3.5 mph (17 min/mi),109,166,70.3068,149
+Walking: 3.5 mph (17 min/mi),109,166,83.9146,178
+Badminton: general,110,165,56.699,135
+Badminton: general,110,165,70.3068,167
+Badminton: general,110,165,83.9146,200
+Walking: 4 mph (15 min/mi),111,160,56.699,135
+Walking: 4 mph (15 min/mi),111,160,70.3068,167
+Walking: 4 mph (15 min/mi),111,160,83.9146,200
+Walking: 4.5 mph (13 min/mi),112,146,56.699,150
+Walking: 4.5 mph (13 min/mi),112,146,70.3068,186
+Walking: 4.5 mph (13 min/mi),112,146,83.9146,222
+"Dancing: disco, ballroom, square",113,178,56.699,165
+"Dancing: disco, ballroom, square",113,178,70.3068,205
+"Dancing: disco, ballroom, square",113,178,83.9146,244
+Bicycling: 12-13.9 mph,114,167,56.699,240
+Bicycling: 12-13.9 mph,114,167,70.3068,298
+Bicycling: 12-13.9 mph,114,167,83.9146,355
+Gardening: general,115,149,56.699,135
+Gardening: general,115,149,70.3068,167
+Gardening: general,115,149,83.9146,200
+Gardening: weeding,116,155,56.699,139
+Gardening: weeding,116,155,70.3068,172
+Gardening: weeding,116,155,83.9146,205
+Sleeping,117,161,56.699,19
+Sleeping,117,161,70.3068,23
+Sleeping,117,161,83.9146,28
+Watching TV,118,170,56.699,23
+Watching TV,118,170,70.3068,28
+Watching TV,118,170,83.9146,33
+Reading: sitting,119,167,56.699,34
+Reading: sitting,119,167,70.3068,42
+Reading: sitting,119,167,83.9146,50
+Cooking,120,179,56.699,75
+Cooking,120,179,70.3068,93
+Cooking,120,179,83.9146,111
+Playing w/kids: moderate effort,121,151,56.699,120
+Playing w/kids: moderate effort,121,151,70.3068,149
+Playing w/kids: moderate effort,121,151,83.9146,178
+"Heavy Cleaning: wash car, windows",122,170,56.699,135
+"Heavy Cleaning: wash car, windows",122,170,70.3068,167
+"Heavy Cleaning: wash car, windows",122,170,83.9146,200
+"Child games: hop-scotch, jacks, etc.",123,149,56.699,150
+"Child games: hop-scotch, jacks, etc.",123,149,70.3068,186
+"Child games: hop-scotch, jacks, etc.",123,149,83.9146,222
+Playing w/kids: vigorous effort,124,167,56.699,150
+Playing w/kids: vigorous effort,124,167,70.3068,186
+Playing w/kids: vigorous effort,124,167,83.9146,222
+Moving: household furniture,125,150,56.699,180
+Moving: household furniture,125,150,70.3068,223
+Moving: household furniture,125,150,83.9146,266
+Moving: carrying boxes,126,149,56.699,210
+Moving: carrying boxes,126,149,70.3068,260
+Moving: carrying boxes,126,149,83.9146,311

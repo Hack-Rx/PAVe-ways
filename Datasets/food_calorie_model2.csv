@@ -1,0 +1,47 @@
+food-categories,food-code,quantity,measure,measure-code,calories
+Milk,101,225,ml,1,150
+Paneer,102,60,gms,2,150
+Butter,103,1,tbsp,3,45
+Ghee,104,1,tbsp,3,45
+Apple,201,242,gms,2,130
+Apple,201,1,small,4,55
+Banana,202,0.5,medium,5,55
+Banana,202,125,gms,2,110
+Grapes,203,125,gms,2,90
+Grapes,203,15,small,4,55
+Mango,204,0.5,small,4,55
+Musambi,205,1,medium,5,55
+Orange,206,150,gms,2,80
+Orange,206,1,medium,5,55
+Cooked Cereal,301,0.5,cup,7,80
+Rice Cooked,302,25,gms,2,80
+Chapatti,303,1,medium,5,80
+Potato,401,148,gms,2,110
+Potato,401,1,medium,5,80
+Dal,402,1,large,6,80
+Mixed Vegetables,403,150,gms,2,80
+Fish,501,50,gms,2,55
+Mutton,502,30,gms,2,75
+Egg,503,1,medium,5,75
+Biscuit (Sweet),601,15,gms,2,70
+Cake (Plain),602,50,gms,2,135
+Cake (Rich Chocolate),603,50,gms,2,225
+Dosa (Plain),604,1,medium,5,135
+Dosa (Masala),605,1,medium,5,250
+Pakoras,606,50,gms,2,175
+Puri,607,1,large,6,85
+Samosa,608,1,medium,5,140
+Vada (Medu),609,1,small,4,70
+Biryani (Mutton),701,1,cup,7,225
+Biryani (Veg.),702,1,cup,7,200
+Curry (Chicken),703,100,gms,2,225
+Curry (Veg.),704,100,gms,2,130
+Fried Fish,705,85,gms,2,140
+Pulav (Veg.),706,100,gms,2,130
+Carrot Halwa,801,45,gms,2,165
+Jalebi,802,20,gms,2,100
+Kheer,803,100,gms,2,180
+Rasgulla,804,50,gms,2,140
+Beer,901,1250,ml,1,50
+Cola,902,200,ml,1,90
+Wine,903,100,ml,1,85
