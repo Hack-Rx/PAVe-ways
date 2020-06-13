@@ -26,10 +26,16 @@ class Suggestion:
         self.calc_req = calc_req
         calc_need = self.ratio * self.calc_req
         
-        food_b = round((data[1,1] * 0.4 * calc_need)/data[1,4])
-        food_o = round((data[3,1] * 0.2 * calc_need)/data[3,4])
-        food_p = self.roundoff((data[4,1] * 0.2 * calc_need)/data[4,4], 50)
-        food_g = self.roundoff((data[2,1] * 0.2 * calc_need)/data[2,4], 50)
+        food_b = round((data[1,1] * 0.1 * calc_need)/data[1,4])
+        food_o = round((data[3,1] * 0.05 * calc_need)/data[3,4])
+        food_p = self.roundoff((data[4,1] * 0.1 * calc_need)/data[4,4], 50)
+        food_g = self.roundoff((data[2,1] * 0.1 * calc_need)/data[2,4], 50)
+
+        # food_b = round((data[1,1] * 0.2 * calc_need)/data[1,4])
+        # food_o = round((data[3,1] * 0.2 * calc_need)/data[3,4])
+        # food_p = self.roundoff((data[15,1] * 0.2 * calc_need)/data[15,4], 50)
+        # food_g = self.roundoff((data[17,1] * 0.2 * calc_need)/data[17,4], 50)
+        # food_h = self.roundoff((data[31,1] * 0.2 * calc_need)/data[31,4], 50)
 
         self.suggestions = "Banana: " + str(food_b) + " units, " + "Orange: " + str(food_o) + " units, " + "Papaya: " + str(food_p) + " grams & "\
               + "Grapes: " + str(food_g) + " grams"
