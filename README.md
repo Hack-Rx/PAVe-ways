@@ -34,3 +34,9 @@ Dataset_food source: Kaggle, https://www.calories.info/food/, https://docs.googl
 
 ### DL-3: Suggestions_model
 DL-3 takes inputs from both DL-1 and DL-3 along with user's physical parameters. This model suggests healthy food and excercises like running and walking based on the calories intake.
+
+
+### DL-4 : Food_Label_Tracker_model
+DL-4 is a food label tracking model which takes a particular food item's nutritional information's image as its input. It then performs a binary classification on those images and lets the user know if that food item is healthy or unhealthy.
+
+Dataset source: Dataset was created by taking images from several grocery websites like BigBasket, Flipkart, Amazon, etc. 
